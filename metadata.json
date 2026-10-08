@@ -1,0 +1,6 @@
+{
+  "name": "CampusCare - Campus Issue & Infrastructure Management",
+  "description": "Architectural blueprint-inspired campus infrastructure management, real-time facility issue tracking, interactive block status map, work order assignments, and resolution timelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
